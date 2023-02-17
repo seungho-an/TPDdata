@@ -1,0 +1,7 @@
+data-raw/localnews_replication
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+/data-raw/CES20_Common_OUTPUT_vv.dta
