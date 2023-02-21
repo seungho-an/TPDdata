@@ -2,10 +2,10 @@ Package: TPDdata
 Title: Datasets for TPDstat
 Version: 0.0.0.9000
 Authors@R: 
-    person("Seung-Ho", "An", , "seunghoan@arizona.edu", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-3689-9527"))
+    person("Seung-Ho", "An", , "seunghoan@arizona.edu", role = c("aut", "cre"))
 Description: Datasets for TPDstat.
 License: MIT + file LICENSE
+URL: https://github.com/seungho-an/TPDdata
 Depends: R (>= 3.5)
 Imports: tibble
 Encoding: UTF-8
